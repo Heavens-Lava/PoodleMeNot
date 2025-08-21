@@ -1,11 +1,8 @@
 {
-<<<<<<< HEAD
-  "homepage": "https://heavens-lava.github.io/PoodleMeNot",
-=======
->>>>>>> e91924f3822dd18eaf8f72619c1cc2f6843155b6
   "name": "poodlemenot",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://heavens-lava.github.io/PoodleMeNot",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -22,12 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-<<<<<<< HEAD
     "eject": "react-scripts eject",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build -r https://github.com/heavens-lava/PoodleMeNot.git"
-=======
-    "eject": "react-scripts eject"
->>>>>>> e91924f3822dd18eaf8f72619c1cc2f6843155b6
   },
   "eslintConfig": {
     "extends": [
@@ -49,10 +43,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^10.4.16",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> e91924f3822dd18eaf8f72619c1cc2f6843155b6
     "postcss": "^8.4.31",
     "tailwindcss": "^3.3.5"
   }
