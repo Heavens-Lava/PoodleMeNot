@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64f3d989.css",
+    "main.js": "/static/js/main.1dc4e9b2.js",
+    "static/media/servicesDog.jpg": "/static/media/servicesDog.0259d1dfe0068f69d1a3.jpg",
+    "static/media/contactDog2.jpg": "/static/media/contactDog2.024e31777aa7463041ef.jpg",
+    "static/media/aboutus.jpg": "/static/media/aboutus.16a6b8ff9474d8dfe331.jpg",
+    "static/media/Forgetmenot4.jpg": "/static/media/Forgetmenot4.83470fe44dbf0286a264.jpg",
+    "static/media/pricingDog.jpg": "/static/media/pricingDog.9dc96f2b13f81be82f8e.jpg",
+    "static/media/doghome2.jpg": "/static/media/doghome2.419156b1b63a6a41692b.jpg",
+    "static/media/pexels-marcelo-miranda-1407167.jpg": "/static/media/pexels-marcelo-miranda-1407167.eb540afe4d2845b62a07.jpg",
+    "static/media/dogpaw.gif": "/static/media/dogpaw.ab871e0e8aca584b6eeb.gif",
+    "static/media/about.png": "/static/media/about.bf562fd7a3a744cfd280.png",
+    "static/media/services.png": "/static/media/services.845deff7256c8cc7c5c1.png",
+    "static/media/contact.png": "/static/media/contact.85b72314fa30bc76799a.png",
+    "index.html": "/index.html",
+    "main.64f3d989.css.map": "/static/css/main.64f3d989.css.map",
+    "main.1dc4e9b2.js.map": "/static/js/main.1dc4e9b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64f3d989.css",
+    "static/js/main.1dc4e9b2.js"
+  ]
+}

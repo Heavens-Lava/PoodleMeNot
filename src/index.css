@@ -1,0 +1,17 @@
+/* Alex Brush Font imported */
+
+@import url("https://fonts.googleapis.com/css2?family=Alex+Brush&family=Poppins:wght@100;200;300;400;600;700;800&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    /* change default body font */
+    font-family: "Poppins", sans-serif;
+    /* change default color  */
+    color: var(--text-black);
+  }
+}
