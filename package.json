@@ -1,8 +1,8 @@
 {
+  "homepage": "https://heavens-lava.github.io/PoodleMeNot",
   "name": "poodlemenot",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://heavens-lava.github.io/PoodleMeNot",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
