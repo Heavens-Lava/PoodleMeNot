@@ -4,7 +4,7 @@ import React from "react";
 import { AnimatePresence } from "framer-motion";
 
 // Import pages
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -17,7 +17,7 @@ const App = () => {
   return (
     // framer-motion wrapper (AnimatePresence) set to wait to allow wait animation to happen before going to next page
     <AnimatePresence mode="wait">
-      <BrowserRouter>
+      <Router>
         <Routes>
           {/* create path page for homepage */}
           <Route index element={<Home />} />
@@ -28,7 +28,7 @@ const App = () => {
           <Route path="/pricing" element={<Pricing />} />
           <Route path="*" element={<NoPage />} />
         </Routes>
-      </BrowserRouter>
+      </Router>
     </AnimatePresence>
   );
 };
