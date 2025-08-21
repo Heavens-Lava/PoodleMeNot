@@ -26,7 +26,7 @@ const Navbar = () => {
       <div className="flex items-center gap-3">
         <img src={navbarIcon} alt="logo" className="w-10 h-10 object-contain" />
         <h1 className="text-2xl md:text-3xl font-bold text-fuchsia-600 font-AlexBrush whitespace-nowrap">
-          <Link to="/home">Poodle Me Nots</Link>
+          <Link to="/home">Poodle Me Not2</Link>
         </h1>
       </div>
 
